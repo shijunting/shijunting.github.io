@@ -25,11 +25,11 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
-description: ""
+title: "CoderTeam"
+email: 416392589@qq.com
+description: "探索技术奥秘，实现自我价值！"
 github:
-  username: bit-ranger
+  username: shijunting
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
@@ -37,7 +37,7 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://shijunting.github.io"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
